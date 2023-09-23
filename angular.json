@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "curriculumVitae"
+  "defaultProject": "curriculumVitae",
+  "cli": {
+    "analytics": false
+  }
 }
